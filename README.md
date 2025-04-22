@@ -35,10 +35,6 @@
 
 ---
 
-## 🏆 Learning Achievements
-- ✅ Completed a [Basic Web Programming Course at Codecademy].
--
-
 ### Learning Progress
 - [x] Created a simple webpage
 - [x] Learned data visualization with Chart.js
