@@ -16,7 +16,7 @@
 - 🏫 **Currently**: A student at Politeknik Negeri Lampung.
 - 🌟 **Learning**: Web programming (HTML, CSS, JavaScript, Visual Studio Code, Canva, PHP).
 - 💡 **Goal**: Build awesome projects and become a web developer or graphic designer!
-- 📫 **Reach me**: [Email](Gmail:mikinisa52@gmail.com) | [Instagram](https://www.instagram.com/anshlz_/)
+- 📫 **Reach me**: [Email](mailto:mikinisa52@gmail.com) | [Instagram](https://www.instagram.com/anshlz_/)
 
 ---
 
@@ -40,7 +40,7 @@
   <a href="https://www.instagram.com/anshlz_/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/></a>
   
   <!-- Updated Gmail Logo -->
-  <a href="gmail:mikinisa52@gmail.com"><img src="https://img.icons8.com/ios-filled/50/000000/gmail-new.png" alt="Gmail"/></a>
+  <a href="malito::mikinisa52@gmail.com"><img src="https://img.icons8.com/ios-filled/50/000000/gmail-new.png" alt="Gmail"/></a>
 </div>
 
 ---
