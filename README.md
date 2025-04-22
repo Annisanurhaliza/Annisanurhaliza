@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <h1>👋 Hi, I'm Annisa Nurhaliza! 🌟</h1>
+  <h1>👋 Hi, I'm nisaa! 🌟</h1>
   <p>A passionate student learning to code and create cool projects! 🚀</p>
 
   <!-- Badges from Shields.io -->
@@ -16,7 +16,7 @@
 - 🏫 **Currently**: A student at Politeknik Negeri Lampung.
 - 🌟 **Learning**: Web programming (HTML, CSS, JavaScript, Visual Studio Code, Canva, PHP).
 - 💡 **Goal**: Build awesome projects and become a web developer or graphic designer!
-- 📫 **Reach me**: [Email](mailto:mikinisa52@gmail.com) | [Instagram](https://www.instagram.com/anshlz_/)
+- 📫 **Reach me**: [Email](Gmail:mikinisa52@gmail.com) | [Instagram](https://www.instagram.com/anshlz_/)
 
 ---
 
@@ -34,16 +34,13 @@
 ---
 
 
-
-
-
 ## 📱 Connect with Me
 <div align="center">
-  <!-- Updated Instagram Logo -->
+  <!-- Instagram Logo -->
   <a href="https://www.instagram.com/anshlz_/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/></a>
   
-  <!-- Updated Email Icon -->
-  <a href="mailto:mikinisa52@gmail.com"><img src="https://img.icons8.com/ios-filled/50/000000/mail.png" alt="Email"/></a>
+  <!-- Updated Gmail Logo -->
+  <a href="gmail:mikinisa52@gmail.com"><img src="https://img.icons8.com/ios-filled/50/000000/gmail-new.png" alt="Gmail"/></a>
 </div>
 
 ---
