@@ -5,7 +5,7 @@
   <p>A passionate student learning to code and create cool projects! 🚀</p>
 
   <!-- Badges from Shields.io -->
-  <img src="https://img.shields.io/badge/Status-Student-brightgreen?style=flat-square" alt="Student"/>
+ 
   <img src="https://img.shields.io/badge/HTML-CSS-yellow?style=flat-square&logo=html5" alt="HTML-CSS"/>
 </div>
 
