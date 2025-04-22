@@ -1,12 +1,14 @@
 ## Hi there 👋
 
 <div align="center">
-  <h1>👋 Hi, I'm nisaa! 🌟</h1>
+  <h1>👋 Howdy, I'm nisaa! 🌟</h1>
   <p>A passionate student learning to code and create cool projects! 🚀</p>
 
   <!-- Badges from Shields.io -->
- 
   <img src="https://img.shields.io/badge/HTML-CSS-yellow?style=flat-square&logo=html5" alt="HTML-CSS"/>
+  <img src="https://img.shields.io/badge/Canva-Design-blue?style=flat-square&logo=canva" alt="Canva"/>
+  <img src="https://img.shields.io/badge/Laravel-Framework-red?style=flat-square&logo=laravel" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/VS%20Code-Editor-0078d4?style=flat-square&logo=visual-studio-code" alt="VS Code"/>
 </div>
 
 ---
@@ -32,19 +34,18 @@
 
 ---
 
-
 ## 📱 Connect with Me
 <div align="center">
   <!-- Instagram Logo -->
   <a href="https://www.instagram.com/anshlz_/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/></a>
   
   <!-- Updated Gmail Logo -->
-  <a href="malito::mikinisa52@gmail.com"><img src="https://img.icons8.com/ios-filled/50/000000/gmail-new.png" alt="Gmail"/></a>
+  <a href="mailto:mikinisa52@gmail.com"><img src="https://img.icons8.com/ios-filled/50/000000/gmail-new.png" alt="Gmail"/></a>
 </div>
 
 ---
 
 <div align="center">
   <p>✨ <i>"Every line of code is a step toward my dreams!"</i> ✨</p>
-  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" alt="Learning GIF" width="300"/>
+  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" alt="Learning GIF" width="500"/>
 </div>
