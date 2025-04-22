@@ -6,7 +6,6 @@
 
   <!-- Badges from Shields.io -->
   <img src="https://img.shields.io/badge/Status-Student-brightgreen?style=flat-square" alt="Student"/>
-  <img src="https://img.shields.io/badge/Python-Learning-blue?style=flat-square&logo=python" alt="Python"/>
   <img src="https://img.shields.io/badge/HTML-CSS-yellow?style=flat-square&logo=html5" alt="HTML-CSS"/>
 </div>
 
