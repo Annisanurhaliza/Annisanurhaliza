@@ -14,12 +14,11 @@
 ---
 
 ## 🌱 About Me
-- 🏫 **Currently**: A student at [Your School/Course, e.g., Tech High School].
-- 🌟 **Learning**: Web programming (HTML, CSS, JavaScript) and Python for data visualization.
-- 💡 **Goal**: Build awesome projects and become a web developer or data scientist!
-- 🤔 **Need help with**: Advanced JavaScript and databases.
-- 📫 **Reach me**: [Email](mailto:annisa@example.com) | [Instagram](https://instagram.com/annisanurhaliza)
-- 😄 **Hobby**: Coding while listening to pop music and sketching!
+- 🏫 **Currently**: A student at Politeknik Negeri Lampung.
+- 🌟 **Learning**: Web programming (HTML, CSS, JavaScript, visual studio code, canva, php) .
+- 💡 **Goal**: Build awesome projects and become a web developer or design graphic!
+- 📫 **Reach me**: [Email](mailto:mikinisa52@gmail.com | [Instagram]([https://instagram.com/annisanurhaliza](https://www.instagram.com/anshlz_/profilecard/?igsh=bzlreXUzYjNwYTdv))
+-
 
 ---
 
@@ -38,9 +37,7 @@
 
 ## 🏆 Learning Achievements
 - ✅ Completed a [Basic Web Programming Course at Codecademy].
-- 🌟 Built my first project: A sales graph on GitHub Pages.
-- 📚 Learned 3 programming languages: Python, HTML, and CSS.
-- 🛠️ Made 20+ commits on GitHub!
+-
 
 ### Learning Progress
 - [x] Created a simple webpage
@@ -60,8 +57,8 @@
 
 ## 📱 Connect with Me
 <div align="center">
-  <a href="https://instagram.com/annisanurhaliza"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/></a>
-  <a href="mailto:annisa@example.com"><img src="https://img.icons8.com/color/48/000000/email.png" alt="Email"/></a>
+  <a href="[https://instagram.com/annisanurhaliza](https://www.instagram.com/anshlz_/profilecard/?igsh=bzlreXUzYjNwYTdv)"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/></a>
+  <a href="mailto:mikinisa52@gmail.com"><img src="https://img.icons8.com/color/48/000000/email.png" alt="Email"/></a>
 </div>
 
 ---
