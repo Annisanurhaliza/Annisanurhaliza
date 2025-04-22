@@ -49,7 +49,8 @@
 
 <div align="center">
   <p>✨ <i>"Every line of code is a step toward my dreams!"</i> ✨</p>
-  <img src="https://media.giphy.com/media/3o6Zt7zE8TzzFP8jmo/giphy.gif" alt="Learning GIF" width="500"/>
+  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" alt="Learning GIF" width="500"/>
 </div>
+
 
 
