@@ -47,5 +47,6 @@
 
 <div align="center">
   <p>✨ <i>"Every line of code is a step toward my dreams!"</i> ✨</p>
-  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" alt="Learning GIF" width="500"/>
+  <img src="URL_GAMBAR_NAILONG" alt="Nailong" width="500"/>
 </div>
+
